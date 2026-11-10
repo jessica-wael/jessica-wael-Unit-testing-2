@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Simulation.Checkout.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Simulation.Checkout.Application": "1.0.0",
+          "Simulation.Checkout.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Simulation.Checkout.Infrastructure.dll": {}
+        }
+      },
+      "Simulation.Checkout.Application/1.0.0": {
+        "dependencies": {
+          "Simulation.Checkout.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Simulation.Checkout.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Simulation.Checkout.Domain/1.0.0": {
+        "runtime": {
+          "Simulation.Checkout.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulation.Checkout.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Simulation.Checkout.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Simulation.Checkout.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.deps.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.csproj.AssemblyReference.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.AssemblyInfoInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.AssemblyInfo.cs
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.csproj.CoreCompileInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.sourcelink.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulati.4B873896.Up2Date
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\refint\Simulation.Checkout.Application.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Application\obj\Debug\net10.0\ref\Simulation.Checkout.Application.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.deps.json
+E:\Unit Testing 2\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Application\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.csproj.AssemblyReference.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.AssemblyInfoInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.AssemblyInfo.cs
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.csproj.CoreCompileInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.sourcelink.json
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulati.4B873896.Up2Date
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\refint\Simulation.Checkout.Application.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Application\obj\Debug\net10.0\ref\Simulation.Checkout.Application.dll

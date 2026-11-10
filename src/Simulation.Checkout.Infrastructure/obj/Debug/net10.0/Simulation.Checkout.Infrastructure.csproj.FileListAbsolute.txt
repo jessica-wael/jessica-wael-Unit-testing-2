@@ -1,0 +1,36 @@
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.deps.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.csproj.AssemblyReference.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.AssemblyInfoInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.AssemblyInfo.cs
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.csproj.CoreCompileInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.sourcelink.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulati.F7232DFA.Up2Date
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\refint\Simulation.Checkout.Infrastructure.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\ref\Simulation.Checkout.Infrastructure.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.deps.json
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Infrastructure.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Application.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Application.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.csproj.AssemblyReference.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.AssemblyInfoInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.AssemblyInfo.cs
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.sourcelink.json
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulati.F7232DFA.Up2Date
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\refint\Simulation.Checkout.Infrastructure.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\Simulation.Checkout.Infrastructure.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Infrastructure\obj\Debug\net10.0\ref\Simulation.Checkout.Infrastructure.dll
