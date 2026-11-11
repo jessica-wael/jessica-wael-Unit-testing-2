@@ -30,6 +30,8 @@ public class CheckoutServiceTests
           .ReturnsAsync(true);
     }
 
+    // Task 1  Business rules (xUnit, FluentAssertions)
+
     [Fact]
     public async Task CheckoutAsync_WhenOrderIsEmpty_ShouldThrowArgumentException()
     {
@@ -238,5 +240,109 @@ public class CheckoutServiceTests
 
     }
 
+
+    // Task 2  Mocks
+
+    [Fact]
+    public async Task CheckoutAsync_WhenOrderIsValid_ShouldSaveAndSendConfirmation()
+    {
+        // Arrange
+        var order = new Order
+        {
+            CustomerName = "John Doe",
+            CustomerEmail = "john.doe@example.com",
+            Items = new List<OrderItem>
+            {
+                new OrderItem
+                {
+                    ProductId = Guid.NewGuid(),
+                    ProductName = "Laptop",
+                    UnitPrice = 400m,
+                    Quantity = 1
+                }
+            }
+        };
+
+        // Act
+        var receipt = await _checkoutService.CheckoutAsync(order);
+
+        // Assert
+
+        receipt.Should().NotBeNull();
+        _orderRepositoryMock.Verify(x => x.SaveAsync(order, It.IsAny<CancellationToken>()), Times.Once);
+        _notficationServiceMock.Verify(x => x.SendOrderConfirmationAsync(receipt, It.IsAny<CancellationToken>()), Times.Once);
+    }
+
+
+    [Fact]
+    public async Task CheckoutAsync_WhenItemIsOutOfStock_ShouldThrowOutOfStockException()
+    {
+        // Arrange
+        var order = new Order
+        {
+            CustomerName = "John Doe",
+            CustomerEmail = "john.doe@example.com",
+            Items = new List<OrderItem>
+            {
+                new OrderItem
+                {
+                    ProductId = Guid.NewGuid(),
+                    ProductName = "Laptop",
+                    UnitPrice = 400m,
+                    Quantity = 1
+                }
+            }
+        };
+
+        _inventoryServiceMock
+        .Setup(x => x.IsAvailableAsync(
+            It.IsAny<Guid>(),
+            It.IsAny<int>(),
+            It.IsAny<CancellationToken>()))
+        .ReturnsAsync(false);
+
+        // Act 
+        var act = async () => await _checkoutService.CheckoutAsync(order);
+
+        // Assert\
+        await act.Should().ThrowAsync<InsufficientInventoryException>();
+        _orderRepositoryMock.Verify(x => x.SaveAsync(order, It.IsAny<CancellationToken>()), Times.Never);
+        _notficationServiceMock.Verify(x => x.SendOrderConfirmationAsync(It.IsAny<CheckoutReceipt>(), It.IsAny<CancellationToken>()), Times.Never);
+
+    }
+
+    [Fact]
+    public async Task CheckoutAsync_WhenOrderFails_ShouldNotSaveAndSendConfirmation()
+    {
+        // Arrange
+        var order = new Order
+        {
+            CustomerName = "John Doe",
+            CustomerEmail = "john.doe@example.com",
+            Items = new List<OrderItem>
+            {
+                new OrderItem
+                {
+                    ProductId = Guid.NewGuid(),
+                    ProductName = "Laptop",
+                    UnitPrice = 400m,
+                    Quantity = 0
+                }
+            }
+        };
+
+        // Act
+        var act = async () => await _checkoutService.CheckoutAsync(order);
+
+        // Assert
+        await act.Should().ThrowAsync<InvalidQuantityException>()
+            .WithMessage("*Laptop*");
+        _orderRepositoryMock.Verify(x => x.SaveAsync(order, It.IsAny<CancellationToken>()), Times.Never);
+        _notficationServiceMock.Verify(x => x.SendOrderConfirmationAsync(It.IsAny<CheckoutReceipt>(), It.IsAny<CancellationToken>()), Times.Never);
+        _inventoryServiceMock.Verify(x =>x.IsAvailableAsync(It.IsAny<Guid>(), It.IsAny<int>(), It.IsAny<CancellationToken>()), Times.Never);
+    }
+
+    
 }
+
 
