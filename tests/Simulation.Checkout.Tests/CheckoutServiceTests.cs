@@ -278,7 +278,7 @@ public class CheckoutServiceTests
 
 
     [Fact]
-    public async Task CheckoutAsync_WhenItemIsOutOfStock_ShouldThrowOutOfStockException()
+    public async Task CheckoutAsync_WhenItemIsOutOfStock_ShouldThrowInsufficientInventoryException()
     {
         // Arrange
         var order = new Order
