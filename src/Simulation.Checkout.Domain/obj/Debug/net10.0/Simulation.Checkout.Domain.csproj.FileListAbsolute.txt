@@ -1,0 +1,26 @@
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.deps.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.AssemblyInfoInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.AssemblyInfo.cs
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.csproj.CoreCompileInputs.cache
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.sourcelink.json
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\refint\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\ref\Simulation.Checkout.Domain.dll
+E:\UnitTestNewRepoo\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulati.B840F916.Up2Date
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.deps.json
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\bin\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.AssemblyInfoInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.AssemblyInfo.cs
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.csproj.CoreCompileInputs.cache
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.sourcelink.json
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\refint\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulation.Checkout.Domain.pdb
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\ref\Simulation.Checkout.Domain.dll
+E:\Unit Testing 2\src\Simulation.Checkout.Domain\obj\Debug\net10.0\Simulati.B840F916.Up2Date
